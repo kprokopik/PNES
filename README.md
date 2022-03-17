@@ -1,2 +1,2 @@
 # PNES
-Project for uniwersity based on PT-NET
+Project for university based on PT-NET
