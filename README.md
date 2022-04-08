@@ -10,6 +10,6 @@ TEAM:
 - https://github.com/Fludu
 - https://github.com/Zarzykk
 - https://github.com/Kamill99
-- https://github.com/kprokopik
+- https://github.com/rmichura
 
 Original project https://github.com/jruchel/PNES-ReworkS1
