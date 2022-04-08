@@ -11,5 +11,6 @@ TEAM:
 - https://github.com/Zarzykk
 - https://github.com/Kamill99
 - https://github.com/rmichura
+- https://github.com/kprokopik
 
 Original project https://github.com/jruchel/PNES-ReworkS1
